@@ -1,0 +1,14 @@
+{
+  "name": "exercicio-ts",
+  "version": "1.0.0",
+  "description": "Exercício de TypeScript: multiplicação e saudação com tipagem",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node dist/index.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
